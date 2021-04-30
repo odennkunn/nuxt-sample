@@ -1,0 +1,37 @@
+[
+  {
+    "name": "posts",
+    "path": "/posts",
+    "component": "/Users/yoshi/Desktop/nuxt-sample/pages/posts/index.vue",
+    "chunkName": "pages/posts/index",
+    "_name": "_e2bd01f8"
+  },
+  {
+    "name": "posts-new",
+    "path": "/posts/new",
+    "component": "/Users/yoshi/Desktop/nuxt-sample/pages/posts/new.vue",
+    "chunkName": "pages/posts/new",
+    "_name": "_37814752"
+  },
+  {
+    "name": "posts-id",
+    "path": "/posts/:id",
+    "component": "/Users/yoshi/Desktop/nuxt-sample/pages/posts/_id.vue",
+    "chunkName": "pages/posts/_id",
+    "_name": "_23cb726c"
+  },
+  {
+    "name": "users-id",
+    "path": "/users/:id?",
+    "component": "/Users/yoshi/Desktop/nuxt-sample/pages/users/_id.vue",
+    "chunkName": "pages/users/_id",
+    "_name": "_43e700be"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/yoshi/Desktop/nuxt-sample/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7185c2c0"
+  }
+]
